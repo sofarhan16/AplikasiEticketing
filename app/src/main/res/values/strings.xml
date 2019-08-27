@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ETicketing</string>
+    <string name="dari">Kota Keberangkatan</string>
+    <string name="tujuan">Kota Tujuan</string>
+    <string name="tgl">Tanggal Keberangkatan</string>
+    <string name="jmlh">Jumlah Tiket</string>
+    <string name="next">Next</string>
+    <string name="pesawat">Nama Pesawat</string>
+    <string name="harga">Harga Pesawat</string>
+    <string name="jmlhtiket">Jumlah Tiket</string>
+    <string name="total">Total Harga</string>
+    <string name="tanggal">Tanggal Keberangkatan</string>
+</resources>
